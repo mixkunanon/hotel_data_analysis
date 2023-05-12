@@ -1,7 +1,6 @@
 # Hotel Data Analysis
 
-#Environment
-
+# Environment
   Kaggle Notebook
-#Dataset
+# Dataset
   Kaggle : Booking.com ---> La Varenda
